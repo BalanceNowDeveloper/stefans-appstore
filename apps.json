@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7",
+          "buildVersion": "10",
+          "date": "2026-05-23",
+          "localizedDescription": "Großes Update. (1) Neues Icon: Apple-Style Progress-Kurve mit PR-Dot auf warmem Verlauf. (2) Sports-Science AI Coach v2 — Per-Übungs-Sprungweite (Compound +2.5kg / Isolation +1.25kg), Rep-Range-Zone-Detection (Kraft/Hypertrophie/Ausdauer), Double-Progression-Prinzip, Stall-Detection mit Deload-Vorschlag, Detraining-Erkennung bei langer Pause. Begründungen erklären jetzt das Programm-Prinzip. (3) Custom Exercise v2 — Primärmuskel + Sekundärmuskeln getrennt, erweiterte Taxonomie (Lats/Traps/Rear Delts/Forearms/Obliques/Lower Back), Compound vs Isolation Tag, Auto-Vorschlag beim Tippen. Volumen-Berechnung zählt Primär 1.0× und Sekundär 0.5×.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.7.ipa",
+          "size": 654127,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.6",
           "buildVersion": "9",
           "date": "2026-05-23",
