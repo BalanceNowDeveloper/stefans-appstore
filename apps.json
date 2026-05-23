@@ -10,7 +10,7 @@
   "apps": [
     {
       "name": "Test Product",
-      "bundleIdentifier": "test.Test-Product",
+      "bundleIdentifier": "com.balancenowdeveloper.testproduct",
       "developerName": "Stefan Schneider",
       "subtitle": "My first sideloaded app",
       "localizedDescription": "First app deployed through Stefan's personal AltStore source. A SwiftUI hello-world style project.",
@@ -25,7 +25,7 @@
           "date": "2026-05-23",
           "localizedDescription": "Initial release.",
           "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/test-product-1.0.ipa",
-          "size": 0,
+          "size": 21601,
           "minOSVersion": "16.0"
         }
       ],
