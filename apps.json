@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "8",
+          "date": "2026-05-23",
+          "localizedDescription": "Smart Effort — sports science upgrade. RPE field (6–10) on every set, optional. Estimated 1RM card and trend chart per exercise (Epley formula). Weekly volume dashboard on Progress with MEV/MAV/MRV landmarks per muscle (Renaissance Periodization). Coach now reads your RPE: easy set → push harder, hard set → consolidate.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.5.ipa",
+          "size": 521296,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "6",
           "date": "2026-05-23",
