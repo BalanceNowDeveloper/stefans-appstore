@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-05-23",
+          "localizedDescription": "🇩🇪 Deutsch jetzt verfügbar (folgt der Systemsprache). New \"Today\" tab — AI suggests a full session based on muscle groups you haven't hit recently, with smart sets/reps/weight per exercise. Tap \"Start This Session\" to launch a workout pre-loaded with the suggestion.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.4.ipa",
+          "size": 482261,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3",
           "buildVersion": "5",
           "date": "2026-05-23",
