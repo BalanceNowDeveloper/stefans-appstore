@@ -135,6 +135,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-05-23",
+          "localizedDescription": "Sammeleintrag — dokumentiere mehrere Völker auf einmal. Plus-Button im Völker-Tab ist jetzt ein Menü mit \"Sammeleintrag\" und \"Neues Volk\". Im Sammeleintrag-Sheet: Multi-Select aller Völker (gruppiert nach Standort, Alle/Keine-Toggle), Datum, Aktion mit Schnellwahl-Chips, Notizen. Save legt pro ausgewähltem Volk einen identischen Tagebuch-Eintrag an.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.4.ipa",
+          "size": 541369,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3",
           "buildVersion": "5",
           "date": "2026-05-23",
