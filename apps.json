@@ -1,0 +1,36 @@
+{
+  "name": "Stefan's App Store",
+  "identifier": "com.balancenowdeveloper.stefans-appstore",
+  "subtitle": "Personal AltStore source",
+  "description": "A personal AltStore source hosting iOS apps built by Stefan Schneider.",
+  "website": "https://github.com/BalanceNowDeveloper/stefans-appstore",
+  "tintColor": "#FF6B35",
+  "apps": [
+    {
+      "name": "Test Product",
+      "bundleIdentifier": "test.Test-Product",
+      "developerName": "Stefan Schneider",
+      "subtitle": "My first sideloaded app",
+      "localizedDescription": "First app deployed through Stefan's personal AltStore source. A SwiftUI hello-world style project.",
+      "tintColor": "#FF6B35",
+      "category": "developer",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-23",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/test-product-1.0.ipa",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
