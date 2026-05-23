@@ -135,6 +135,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "7",
+          "date": "2026-05-23",
+          "localizedDescription": "Sammeleintrag-Markierung. Sammel-Einträge im Tagebuch eines Volks zeigen jetzt einen kleinen Honig-Chip mit Stacks-Icon und Anzahl der Völker (\"Sammel · 5 Völker\"). Im PDF-Bericht erscheint dieselbe Markierung als kleines Badge in der Aktivitäts-Tabelle und im Volk-Detail.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.5.ipa",
+          "size": 550365,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "6",
           "date": "2026-05-23",
