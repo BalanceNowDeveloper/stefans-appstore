@@ -135,6 +135,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-05-23",
+          "localizedDescription": "App komplett auf Deutsch (de_AT) gezwungen — Datumsformate, Monatsnamen, Zahlenformate immer Deutsch, unabhängig von der System-Sprache. CFBundleDevelopmentRegion auf de gesetzt.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.0.1.ipa",
+          "size": 322639,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-05-23",
