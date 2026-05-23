@@ -4,7 +4,7 @@
   "sourceURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps.json",
   "subtitle": "Personal AltStore source",
   "description": "A personal AltStore source hosting iOS apps built by Stefan Schneider.",
-  "iconURL": "https://avatars.githubusercontent.com/u/287206491?v=4",
+  "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/store.png",
   "website": "https://github.com/BalanceNowDeveloper/stefans-appstore",
   "tintColor": "#FF6B35",
   "apps": [
@@ -14,7 +14,7 @@
       "developerName": "Stefan Schneider",
       "subtitle": "My first sideloaded app",
       "localizedDescription": "First app deployed through Stefan's personal AltStore source. A SwiftUI hello-world style project.",
-      "iconURL": "https://avatars.githubusercontent.com/u/287206491?v=4",
+      "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/test-product.png",
       "tintColor": "#FF6B35",
       "category": "developer",
       "screenshotURLs": [],
