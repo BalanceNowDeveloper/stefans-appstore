@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-05-23",
+          "localizedDescription": "Fix: tapping an exercise inside a session now opens the set-logging screen. Add: Done button on the number-pad keyboard.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.0.1.ipa",
+          "size": 171978,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-05-23",
