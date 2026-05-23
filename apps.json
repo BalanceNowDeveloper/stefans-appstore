@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.10",
+          "buildVersion": "14",
+          "date": "2026-05-23",
+          "localizedDescription": "Visuelle Politur. (1) Semantische Farben — neue Theme-Slots für success (grün), info (blau), warning (gelb), destructive (rot). Wird über die nächsten Releases überall eingesetzt. (2) Doppel-Chevron auf Session-Karten entfernt — voll-breite Tap-Area. (3) Bessere Movement-Pattern-Icons: Boxer-Pose für Horizontal Push, Climber für Vertical Pull, Deadlift-Figur für Hip Dominant, Hantel für Isolation. (4) Neue \"Diese Woche nach Bewegungsmuster\"-Sektion auf Progress — zeigt Set-Summen pro Pattern auf einen Blick.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.10.ipa",
+          "size": 729261,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.9",
           "buildVersion": "13",
           "date": "2026-05-23",
