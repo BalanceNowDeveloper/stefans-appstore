@@ -135,6 +135,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.3",
+          "buildVersion": "5",
+          "date": "2026-05-23",
+          "localizedDescription": "Export ist jetzt ein richtiges PDF-Dokument statt Markdown. A4-Layout, Honig-Akzent, Übersichts-Statistik-Karten oben, Tabellen mit Streifen-Hintergrund pro Standort, chronologische Aktivitäts-Tabelle, pro Volk eine eigene Karte mit Königinfarbe als bunter Punkt. Druckfertig.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.3.ipa",
+          "size": 501937,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2",
           "buildVersion": "4",
           "date": "2026-05-23",
