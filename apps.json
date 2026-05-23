@@ -122,6 +122,32 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Imker Kalender",
+      "bundleIdentifier": "com.balancenowdeveloper.imkerkalender",
+      "developerName": "Stefan Schneider",
+      "subtitle": "Imkerjahr für Vorarlberg / Alpenraum",
+      "localizedDescription": "Dein persönlicher Imker-Kalender mit allen Aufgaben über das Jahr — angepasst an alpine Höhenlage (~700 m, Montafon). Varroa-Management, Schwarmkontrolle, Tracht, Einwinterung. Pro Aufgabe: Was, Warum, Wie + alpine Hinweise. Abhakbar pro Monat/Jahr. Notizen pro Erledigung.",
+      "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/imkerkalender.png",
+      "tintColor": "#F5A623",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-23",
+          "localizedDescription": "Erste Version. Aktuell-Tab mit kritischen Aufgaben des Monats, Jahres-Tab mit allen 12 Monaten ausklappbar. Detail-Ansicht pro Aufgabe mit Was/Warum/Wie und alpinen Anpassungen für Vorarlberg.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.0.ipa",
+          "size": 321647,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
