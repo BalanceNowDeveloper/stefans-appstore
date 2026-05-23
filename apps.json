@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.12",
+          "buildVersion": "16",
+          "date": "2026-05-23",
+          "localizedDescription": "Drei konkrete Punkte gefixt. (1) Edit-Bug ECHT behoben — Editor öffnet jetzt deterministisch im Edit-Modus wenn du swipe-bearbeitest. War ein SwiftUI-State-Capture-Problem. (2) Delete-Buttons: das Bearbeiten-Swipe-Icon ist jetzt blau (Info), das Löschen rot (Destructive). (3) Movement-Pattern-Farben: Push rot, Pull blau, Legs grün, Core lila, Isolation/Carry Brand-Orange. Sichtbar im Pattern-Picker beim Übung-Anlegen und im Pattern-Volume-Rollup auf Progress.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.12.ipa",
+          "size": 733242,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.11",
           "buildVersion": "15",
           "date": "2026-05-23",
