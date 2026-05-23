@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "4",
+          "date": "2026-05-23",
+          "localizedDescription": "AI Coach (Layer 1). When you open a new exercise, the reps and weight pre-fill with a smart next-progression suggestion based on your last sessions. New \"Coach Suggests\" callout explains the reasoning. Hit the same weight twice → it suggests +2.5 kg. Reps dropped → it tells you to repeat. First time → it matches last session.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.2.ipa",
+          "size": 274249,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "3",
           "date": "2026-05-23",
