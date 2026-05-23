@@ -33,6 +33,32 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Training Log",
+      "bundleIdentifier": "com.balancenowdeveloper.traininglog",
+      "developerName": "Stefan Schneider",
+      "subtitle": "Strength training log for the gym",
+      "localizedDescription": "Log your strength workouts the Apple way. Group exercises into sessions, track sets and weight, see per-exercise progress charts. Replaces your Notes app for gym tracking.",
+      "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/traininglog.png",
+      "tintColor": "#2E7D5B",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-23",
+          "localizedDescription": "Initial release. Sessions, exercises, set logging, progress charts.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.0.ipa",
+          "size": 173118,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
