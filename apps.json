@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "11",
+          "date": "2026-05-23",
+          "localizedDescription": "Hotfix: SwiftData-Migration repariert. v1.7 hatte ein Default-Value-Problem bei den neuen CustomExerciseDef-Feldern, das verhinderte dass Sessions gespeichert werden. Nach dem Update funktionieren Saves wieder normal.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.7.1.ipa",
+          "size": 654457,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.7",
           "buildVersion": "10",
           "date": "2026-05-23",
