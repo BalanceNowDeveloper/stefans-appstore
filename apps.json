@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.9",
+          "buildVersion": "13",
+          "date": "2026-05-23",
+          "localizedDescription": "Fokus auf UX & Pattern-basierte Übungs-Anlage. (1) Movement Pattern als primäre Categorization beim Anlegen einer eigenen Übung — wähle nur EINS aus 9 Mustern (Horizontal/Vertical Push/Pull, Knee/Hip Dominant, Core, Isolation, Carry), Muskeln werden automatisch hinterlegt. Erweitert-Toggle für manuelle Muskel-Anpassung. (2) Übungen bearbeiten funktioniert jetzt wirklich — kein Duplikat mehr. Swipe nach links: Bearbeiten ODER Löschen. (3) Sessions: swipe links = löschen, swipe rechts = duplizieren als Template für heute (deine \"copy last session\" Idee). (4) Info-Boxen öffnen als Sheet statt Popover — kein Cutoff mehr.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.9.ipa",
+          "size": 717718,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.8",
           "buildVersion": "12",
           "date": "2026-05-23",
