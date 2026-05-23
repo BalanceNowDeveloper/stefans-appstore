@@ -135,6 +135,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "4",
+          "date": "2026-05-23",
+          "localizedDescription": "Markdown-Export aller Völker. Export-Button im Völker-Tab (oben links). Generiert eine vollständige .md-Datei mit Übersicht, pro Standort Tabelle, chronologischer Aktivitäts-Timeline und Volk-für-Volk Tagebuch. Via Share-Sheet sendbar an Files, AirDrop, Mail, oder direkt in Claude.ai für persönliche Imker-Coaching.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/imkerkalender-1.2.ipa",
+          "size": 499968,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "3",
           "date": "2026-05-23",
