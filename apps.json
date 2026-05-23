@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "3",
+          "date": "2026-05-23",
+          "localizedDescription": "Visual glow-up. Brand accent color, this-week stats hero, card-based session and exercise rows, big-number summaries, previous-best callout on exercises, quick weight step buttons (±1.25 / ±2.5 kg), sparkline previews on progress.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.1.ipa",
+          "size": 259639,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.1",
           "buildVersion": "2",
           "date": "2026-05-23",
