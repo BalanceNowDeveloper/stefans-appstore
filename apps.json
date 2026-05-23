@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.13",
+          "buildVersion": "17",
+          "date": "2026-05-23",
+          "localizedDescription": "(1) Leading-Edge Swipe-Buttons (Duplizieren auf Session-Karte) jetzt rot statt orange. (2) Vor Löschen einer Übung oder Session: Alert mit „Abbrechen / Löschen“ — Full-Swipe-Sofort-Delete entfernt. Schutz gegen Versehen. Bei Sessions wird auch angezeigt wie viele Sätze verloren gehen.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.13.ipa",
+          "size": 742014,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.12",
           "buildVersion": "16",
           "date": "2026-05-23",
