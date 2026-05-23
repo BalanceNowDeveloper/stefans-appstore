@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.11",
+          "buildVersion": "15",
+          "date": "2026-05-23",
+          "localizedDescription": "Diesmal SICHTBAR. ⓘ-Info-Icons jetzt blau (Theme.info) und gefüllt — klar erkennbar als Info-Anker. \"Best\"-Kennzahl in den Progress-Karten grün (Theme.success). Trend-Pfeil bei Verbesserung grün. RPE-Chips farblich abgestuft: 6-7 grün (gut), 8 orange (working set), 9 amber (caution), 10 rot (max). Volume-Bars: belowMEV grau, MEV-MAV grün, MAV-MRV amber, aboveMRV rot.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.11.ipa",
+          "size": 729200,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.10",
           "buildVersion": "14",
           "date": "2026-05-23",
