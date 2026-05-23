@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.8",
+          "buildVersion": "12",
+          "date": "2026-05-23",
+          "localizedDescription": "UX-Politur. (1) Info-ⓘ-Buttons neben Fachbegriffen (RPE, 1RM, MEV/MAV/MRV, Compound/Isolation, Zonen) — tap zeigt Erklärung mit Beispiel und Quelle. (2) Log-Set-Button bleibt während Tippen sichtbar — eigener Button direkt in der Tastatur-Toolbar. (3) Smart Date-Anzeige: Heute, Gestern, Vor 3 Tagen statt nur Datum. (4) Haptisches Feedback beim Log Set — du merkst dass der Satz gespeichert wurde.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.8.ipa",
+          "size": 687846,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "11",
           "date": "2026-05-23",
