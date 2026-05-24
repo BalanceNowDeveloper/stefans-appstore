@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7",
+          "buildVersion": "12",
+          "date": "2026-05-24",
+          "localizedDescription": "Wochen-Navigation. Im Woche-Tab oben jetzt Chevron-Buttons links/rechts → springe in vergangene oder zukünftige Wochen. Header zeigt 'Letzte Woche', 'vor 3 Wochen', 'Nächste Woche' etc. plus Datumsbereich. 'Heute'-Button oben rechts springt zur aktuellen Woche zurück. Tap auf eine Zelle in einer vergangenen Woche öffnet Quick-Log mit dem korrekten Datum vorselektiert — perfekt um vergessene Sessions nachzutragen. Coverage-Prozent unter dem Grid zeigt die Wochen-Coverage für die gerade angezeigte Woche.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.7.ipa",
+          "size": 541904,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.6",
           "buildVersion": "11",
           "date": "2026-05-24",
