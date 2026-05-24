@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.3",
+          "buildVersion": "6",
+          "date": "2026-05-24",
+          "localizedDescription": "URL-Scheme erweitert für iOS-Shortcuts-Bridge. Akzeptiert jetzt quantity, date, notes Parameter. Bei quantity → auto-save ohne Sheet. Damit kannst du Shortcuts bauen die Garmin-Daten via Apple Health → Centenarian Week übertragen ohne Apple Dev Program.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.3.ipa",
+          "size": 477088,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2",
           "buildVersion": "5",
           "date": "2026-05-24",
