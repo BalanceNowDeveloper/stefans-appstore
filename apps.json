@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.1",
+          "buildVersion": "4",
+          "date": "2026-05-24",
+          "localizedDescription": "Session löschen geht jetzt. Tap auf eine geloggte Session (Heute-Tab in der \"Heute bisher\"-Sektion ODER Woche-Tab auf einer ✓-Zelle) → Detail-Sheet öffnet → Button \"Session löschen\" rot mit Bestätigungs-Alert.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.1.1.ipa",
+          "size": 451671,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "3",
           "date": "2026-05-24",
