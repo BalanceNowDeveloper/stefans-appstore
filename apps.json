@@ -46,6 +46,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.14",
+          "buildVersion": "18",
+          "date": "2026-05-24",
+          "localizedDescription": "Cross-App-Integration mit Centenarian Week. Wenn du in einer Session mind. 1 Satz geloggt hast, erscheint unten ein Button \"Auch in Centenarian Week loggen\" — öffnet Centenarian Week direkt im Strength-Quick-Log-Sheet. Manuell-Tap-pro-Sync (kein Auto-Sync ohne Apple Dev Program).",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/traininglog-1.14.ipa",
+          "size": 753100,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.13",
           "buildVersion": "17",
           "date": "2026-05-23",
@@ -286,6 +295,15 @@
       "category": "lifestyle",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-05-24",
+          "localizedDescription": "URL-Scheme-Integration. App ist jetzt via centenarianweek://log?modality=... aufrufbar. Training Log nutzt das ab v1.14 — \"Auch in Centenarian Week loggen\"-Button springt direkt ins Quick-Log-Sheet mit Strength preselected.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.0.1.ipa",
+          "size": 432160,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
