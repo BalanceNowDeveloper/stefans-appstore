@@ -274,6 +274,32 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Centenarian Week",
+      "bundleIdentifier": "com.balancenowdeveloper.centenarianweek",
+      "developerName": "Stefan Schneider",
+      "subtitle": "Wochen-Planer für Longevity-Training",
+      "localizedDescription": "Plane und tracke deine Trainings-Woche entlang der Peter-Attia-Centenarian-Decathlon-Logik. 7 Modalitäten (Stability, Strength, Zone 2, Zone 5/VO₂ Max, Mobility, Steps/NEAT, Sleep), wissenschaftlich basierte Defaults, anpassbare Targets, Implementation-Intentions beim Planen. Heute-Tab, Wochen-Grid, Coverage-Donut. Subtle Behavioral Psychology — keine Gamification, kein Geblinke.",
+      "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/centenarianweek.png",
+      "tintColor": "#0F756E",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-24",
+          "localizedDescription": "Erste Version. 4 Tabs: Heute, Woche, Planen, Targets. 7 Modalitäten mit Attia-Default-Targets. Quick-Log mit Schnellwahl-Buttons. Wochen-Grid mit Coverage-Donut. Plan-View mit Implementation-Intentions. Settings mit anpassbaren Targets und wissenschaftlicher Begründung pro Modalität.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.0.ipa",
+          "size": 426218,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
