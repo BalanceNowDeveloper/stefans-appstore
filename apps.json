@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "13",
+          "date": "2026-05-24",
+          "localizedDescription": "Geplante Sessions löschen + bearbeiten. Tap auf eine geplante Session (im Plan-Tab oder auf einer Zelle in der Woche-Ansicht) öffnet jetzt das Detail-Sheet mit Status-Badge ('Geplant' blau / 'Erledigt' grün). Du kannst Datum + Intention + Notiz editieren, die Session als erledigt markieren oder löschen — alles mit Bestätigungs-Alert. Im Plan-Tab ist der ganze Eintrag jetzt tappable (vorher nur ein winziges X-Icon).",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.7.1.ipa",
+          "size": 552127,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.7",
           "buildVersion": "12",
           "date": "2026-05-24",
