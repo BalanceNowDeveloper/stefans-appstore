@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "5",
+          "date": "2026-05-24",
+          "localizedDescription": "Markdown-Export für Claude-Coaching. Top-Left Export-Button im Heute-Tab → erzeugt .md mit: Kontext (Methodik + Goal), aktuellen Targets pro Modalität mit wissenschaftlicher Begründung, aktueller Wochen-Coverage, letzte 4 Wochen chronologisch, Wochen-Übersicht, Per-Modalitäts-Statistik, plus vorbereitete Coaching-Fragen für Claude. Via Share-Sheet weitergeben.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.2.ipa",
+          "size": 474925,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "4",
           "date": "2026-05-24",
