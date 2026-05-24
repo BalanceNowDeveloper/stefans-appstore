@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "3",
+          "date": "2026-05-24",
+          "localizedDescription": "MED-Defaults (Minimum Effective Dose): Strength 2 Sessions/Woche (war 3), Zone 2 120 Min/Woche (war 180), Zone 5 1 Session/Woche (war 2). Sleep aus den Views default-hidden — Toggle \"Sleep tracken\" in Settings. Per Attia, San Millán, und der breiteren MED-Literatur.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.1.ipa",
+          "size": 433082,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.1",
           "buildVersion": "2",
           "date": "2026-05-24",
