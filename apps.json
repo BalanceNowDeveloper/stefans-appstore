@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "7",
+          "date": "2026-05-24",
+          "localizedDescription": "Steps/NEAT auch default ausgeblendet (du hast es eh in Garmin Connect). In Settings ein Toggle dazu, falls du es doch manuell tracken willst. Damit zeigt das Dashboard nur die 5 Modalitäten die du wirklich manuell loggst: Stability, Strength, Zone 2, Zone 5, Mobility.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.3.1.ipa",
+          "size": 477339,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3",
           "buildVersion": "6",
           "date": "2026-05-24",
