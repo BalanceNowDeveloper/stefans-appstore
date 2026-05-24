@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6",
+          "buildVersion": "11",
+          "date": "2026-05-24",
+          "localizedDescription": "Drei UX-Upgrades aus dem Audit. (1) Streaks pro Modalität: ab 2 Wochen in Folge erscheint ein 🔥-Chip neben der Modalität auf Today (z.B. 'Zone 2 🔥 4w'). Subtle Behavioral Psychology — keine Punkte, kein Geblinke, nur die Information dass du gerade etwas Schönes aufgebaut hast. (2) Edit Session: tap auf eine geloggte Session → 'Bearbeiten' oben links → Datum, Dauer/Schritte/Stunden und Notiz editieren. (3) Visual Celebration: wenn ein Quick-Log gerade ein Target frisch erreicht, blendet sich für 1.6 Sekunden ein farbiger Full-Screen-Layer mit ✓-Siegel ein bevor das Sheet schließt.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.6.ipa",
+          "size": 525930,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5",
           "buildVersion": "10",
           "date": "2026-05-24",
