@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "10",
+          "date": "2026-05-24",
+          "localizedDescription": "Top-4 UX-Upgrades aus Apple-Designer-Audit. (1) Coach-Hero auf Today: konkrete Empfehlung in 1 Satz statt nur Stats. (2) Pro-rated Coverage: 'On pace' vs 'hinter Plan' statt nackter Prozentzahl. Erwartung-Ring im Donut zeigt wo du sein solltest. (3) Rest Days: 'Heute als Rest Day markieren'-Button auf Today, Week-Grid zeigt Mond-Icon. (4) Erfolg-Feedback: Haptic Success-Buzz wenn Logging gerade ein Target frisch erreicht hat.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.5.ipa",
+          "size": 503032,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.1",
           "buildVersion": "9",
           "date": "2026-05-24",
