@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4",
+          "buildVersion": "8",
+          "date": "2026-05-24",
+          "localizedDescription": "Mobility & Stability zusammengefasst. Statt zwei getrennten Modalitäten (Mobility + Stability) jetzt eine: 'Mobility & Stability' (3 Sessions/Woche, Foam Rolling + Mobility Flows + Balance + Cat-Cow + Bird Dog + alles Soft-Tissue). Stability default-hidden, in Settings Toggle 'Stability separat tracken' falls du sie doch getrennt willst.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.4.ipa",
+          "size": 477994,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.1",
           "buildVersion": "7",
           "date": "2026-05-24",
