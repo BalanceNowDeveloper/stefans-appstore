@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "9",
+          "date": "2026-05-24",
+          "localizedDescription": "Fix: Week-Tab zeigt jetzt 'Mob. & Stab.' für die kombinierte Modalität (vorher nur 'Mobility').",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.4.1.ipa",
+          "size": 477970,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "8",
           "date": "2026-05-24",
