@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.2",
+          "buildVersion": "14",
+          "date": "2026-05-24",
+          "localizedDescription": "Coaching-Tonalität überarbeitet. 'Hinter Plan' → 'Noch alles drin'. 'On pace' → 'Auf Kurs' (auch raus aus dem Englischen). Coach-Hero bei Rückstand: statt 'Diese Woche wird's eng' → 'Du hast die Woche in der Hand'. Bei On-Pace: statt 'On pace.' → 'Stark unterwegs.' Subtle Behavioral Psych — keine Toxic Positivity, keine Shame-Sprache, sondern Agency-fokussiert.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/centenarianweek-1.7.2.ipa",
+          "size": 552078,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "13",
           "date": "2026-05-24",
