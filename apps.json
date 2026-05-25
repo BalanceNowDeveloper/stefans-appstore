@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-05-25",
+          "localizedDescription": "Großes Design-Update + neue Daten. (1) Spritpreise im Landkreis: Diesel- und Super-E5-Durchschnitt im 25-km-Umkreis via Tankerkönig-API (kostenloser Key, in den neuen Einstellungen einzutragen). (2) Postleitzahl als Chip neben der Stadt. (3) Höhe über NN. (4) Sonnenaufgang + Sonnenuntergang mit Tagesverlauf-Balken (lokal berechnet, kein Netz nötig). (5) Tageszeit-abhängiger Gradient-Hintergrund (warm morgens, klar tagsüber, dunkelblau nachts). (6) Karten-Layout mit zarten Material-Effekten. Settings-Sheet oben rechts.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/hier-1.1.ipa",
+          "size": 378561,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-05-25",
