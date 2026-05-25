@@ -285,6 +285,34 @@
       }
     },
     {
+      "name": "Hier",
+      "bundleIdentifier": "com.balancenowdeveloper.hier",
+      "developerName": "Stefan Schneider",
+      "subtitle": "Bundesland · Stadt · Straße",
+      "localizedDescription": "Minimalistische Standort-App. Öffnet sich, zeigt dir Bundesland (groß), Stadt und Straße. Pull-to-Refresh. Offline-Cache mit Hinweis falls keine Verbindung. Kein Tracking, keine Background-Location — fragt nur 'When in Use'.",
+      "iconURL": "https://balancenowdeveloper.github.io/stefans-appstore/icons/hier.png",
+      "tintColor": "#4F6480",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-25",
+          "localizedDescription": "Erste Version. Single-Screen: Bundesland groß, Stadt darunter, Straße als Untertitel. Pull-to-Refresh + Refresh-Button. Standort wird beim Öffnen abgerufen (kein Background). Offline-Cache zeigt den letzten Stand mit Hinweis, falls keine Verbindung.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/hier-1.0.ipa",
+          "size": 268917,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Hier nutzt deinen Standort, um Bundesland, Stadt und Straße anzuzeigen."
+        }
+      }
+    },
+    {
       "name": "Centenarian Week",
       "bundleIdentifier": "com.balancenowdeveloper.centenarianweek",
       "developerName": "Stefan Schneider",
