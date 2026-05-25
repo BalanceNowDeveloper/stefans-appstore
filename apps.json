@@ -296,6 +296,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-05-25",
+          "localizedDescription": "Hellerer Look + Bug-Fixes. (1) App-Icon: Pfirsich-Sonnenaufgangs-Gradient mit zentriertem 'Du bist hier'-Marker. (2) Hintergrund jetzt durchgehend hell (statt nachts dunkelblau zu werden) — nur noch dezenter Farbakzent am oberen Bildschirmrand der sich mit der Tageszeit ändert. (3) BUGFIX Sonnenzeiten: Aufgang/Untergang stimmen jetzt — vorher wurde der Tag wegen Timezone-Bug einen Tag falsch berechnet.",
+          "downloadURL": "https://balancenowdeveloper.github.io/stefans-appstore/apps/hier-1.2.ipa",
+          "size": 1081054,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "2",
           "date": "2026-05-25",
